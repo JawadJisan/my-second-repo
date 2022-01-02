@@ -1,0 +1,22 @@
+h1{
+    color: tomato;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 50px;
+}
+p{
+    background-color: royalblue;
+    box-sizing: border-box;
+    margin: 30px;
+    text-align: center;
+    text-decoration: sandybrown;
+    text-transform: uppercase;
+    padding: 50px;
+
+}
+h2{
+    font-family: serif;
+    font-size: larger;
+    background-color: seagreen;
+}
